@@ -391,7 +391,7 @@
     <string name="conversation_list_item_view_sent_from_you_prefix" msgid="1735457801737604211">"나: "</string>
     <string name="conversation_list_item_view_sent_from_other_prefix" msgid="9202622757034736175">"<xliff:g id="FIRSTNAMEOFSENDER">%s</xliff:g>: "</string>
     <string name="conversation_list_item_view_draft_message" msgid="3592923997082845035">"임시보관"</string>
-    <string name="conversation_list_empty_text" msgid="7505706551294769667">"새 대화를 시작하면 여기에 표시됩니다."</string>
+    <string name="conversation_list_empty_text" msgid="7505706551294769667">"메시지가 없습니다."</string>
     <string name="archived_conversation_list_empty_text" msgid="6109126963298874571">"보관처리된 대화는 여기에 표시됩니다."</string>
     <string name="conversation_list_first_sync_text" msgid="3749751291444609993">"대화 로드 중..."</string>
     <string name="conversation_list_snippet_picture" msgid="5326960910088541826">"사진"</string>
